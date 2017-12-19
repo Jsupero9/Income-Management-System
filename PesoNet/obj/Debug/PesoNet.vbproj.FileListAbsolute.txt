@@ -1,0 +1,48 @@
+D:\Vb.Net Codes\PesoNet\PesoNet\bin\Debug\PesoNet.exe.config
+D:\Vb.Net Codes\PesoNet\PesoNet\bin\Debug\PesoNet.exe
+D:\Vb.Net Codes\PesoNet\PesoNet\bin\Debug\PesoNet.pdb
+D:\Vb.Net Codes\PesoNet\PesoNet\bin\Debug\PesoNet.xml
+D:\Vb.Net Codes\PesoNet\PesoNet\obj\Debug\WindowsApplication1.frmMain.resources
+D:\Vb.Net Codes\PesoNet\PesoNet\obj\Debug\WindowsApplication1.frmStation.resources
+D:\Vb.Net Codes\PesoNet\PesoNet\obj\Debug\WindowsApplication1.Resources.resources
+D:\Vb.Net Codes\PesoNet\PesoNet\obj\Debug\PesoNet.vbproj.GenerateResource.Cache
+D:\Vb.Net Codes\PesoNet\PesoNet\obj\Debug\PesoNet.exe
+D:\Vb.Net Codes\PesoNet\PesoNet\obj\Debug\PesoNet.xml
+D:\Vb.Net Codes\PesoNet\PesoNet\obj\Debug\PesoNet.pdb
+D:\Vb.Net Codes\PesoNet\PesoNet\obj\Debug\WindowsApplication1.frmStationEdit.resources
+D:\Vb.Net Codes\PesoNet\PesoNet\obj\Debug\WindowsApplication1.frmPurchases.resources
+D:\Vb.Net Codes\PesoNet\PesoNet\bin\Debug\MySql.Data.dll
+D:\Vb.Net Codes\PesoNet\PesoNet\obj\Debug\PesoNet.vbprojResolveAssemblyReference.cache
+D:\Vb.Net Codes\PesoNet\PesoNet\obj\Debug\Interop.Accessibility.dll
+D:\Vb.Net Codes\PesoNet\PesoNet\obj\Debug\PesoNet.vbproj.ResolveComReference.cache
+D:\Vb.Net Codes\PesoNet\PesoNet\obj\Debug\WindowsApplication1.frmConnection.resources
+D:\Vb.Net Codes\PesoNet\PesoNet\obj\Debug\WindowsApplication1.frmSupplierEdit.resources
+D:\Vb.Net Codes\PesoNet\PesoNet\obj\Debug\WindowsApplication1.frmSuppliers.resources
+D:\Vb.Net Codes\PesoNet\PesoNet\obj\Debug\WindowsApplication1.frmTitlesEdit.resources
+D:\Vb.Net Codes\PesoNet\PesoNet\obj\Debug\WindowsApplication1.frmTitles.resources
+D:\Vb.Net Codes\PesoNet\PesoNet\obj\Debug\WindowsApplication1.frmSearchSupplier.resources
+D:\Vb.Net Codes\PesoNet\PesoNet\obj\Debug\WindowsApplication1.frmPurchaseEdit.resources
+D:\Vb.Net Codes\PesoNet\PesoNet\obj\Debug\WindowsApplication1.frmItemEdit.resources
+C:\Users\james\Desktop\PesoNet\PesoNet\bin\Debug\PesoNet.exe.config
+C:\Users\james\Desktop\PesoNet\PesoNet\obj\Debug\Interop.Accessibility.dll
+C:\Users\james\Desktop\PesoNet\PesoNet\obj\Debug\PesoNet.vbproj.ResolveComReference.cache
+C:\Users\james\Desktop\PesoNet\PesoNet\obj\Debug\PesoNet.exe
+C:\Users\james\Desktop\PesoNet\PesoNet\obj\Debug\PesoNet.xml
+C:\Users\james\Desktop\PesoNet\PesoNet\obj\Debug\PesoNet.pdb
+C:\Users\james\Desktop\PesoNet\PesoNet\bin\Debug\PesoNet.exe
+C:\Users\james\Desktop\PesoNet\PesoNet\bin\Debug\PesoNet.pdb
+C:\Users\james\Desktop\PesoNet\PesoNet\bin\Debug\PesoNet.xml
+C:\Users\james\Desktop\PesoNet\PesoNet\obj\Debug\WindowsApplication1.frmPurchaseEdit.resources
+C:\Users\james\Desktop\PesoNet\PesoNet\obj\Debug\WindowsApplication1.frmSearchSupplier.resources
+C:\Users\james\Desktop\PesoNet\PesoNet\obj\Debug\WindowsApplication1.frmSupplierEdit.resources
+C:\Users\james\Desktop\PesoNet\PesoNet\obj\Debug\WindowsApplication1.frmConnection.resources
+C:\Users\james\Desktop\PesoNet\PesoNet\obj\Debug\WindowsApplication1.frmStationEdit.resources
+C:\Users\james\Desktop\PesoNet\PesoNet\obj\Debug\WindowsApplication1.frmMain.resources
+C:\Users\james\Desktop\PesoNet\PesoNet\obj\Debug\WindowsApplication1.frmPurchases.resources
+C:\Users\james\Desktop\PesoNet\PesoNet\obj\Debug\WindowsApplication1.frmSuppliers.resources
+C:\Users\james\Desktop\PesoNet\PesoNet\obj\Debug\WindowsApplication1.frmTitlesEdit.resources
+C:\Users\james\Desktop\PesoNet\PesoNet\obj\Debug\WindowsApplication1.frmStation.resources
+C:\Users\james\Desktop\PesoNet\PesoNet\obj\Debug\WindowsApplication1.frmTitles.resources
+C:\Users\james\Desktop\PesoNet\PesoNet\obj\Debug\WindowsApplication1.frmItemEdit.resources
+C:\Users\james\Desktop\PesoNet\PesoNet\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\james\Desktop\PesoNet\PesoNet\obj\Debug\PesoNet.vbproj.GenerateResource.Cache
